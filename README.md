@@ -1,3 +1,7 @@
+## Cloning project locally
+
+```git clone git@github.com:meszmers/SocialPublishingPlatform.git```
+
 
 ## Setup Backend
 
