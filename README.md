@@ -26,3 +26,13 @@ Setup Frontend
 
 ```npm run dev```
 
+## How to use application
+As currently registration is not yet implemented. Please use seeded users for testing or create new users manually in database.
+
+Seeded users:
+
+```email:john@doe.com password:password```
+
+```email:alex@ruby.com password:password```
+
+```email:anna@crypto.com password:password```
