@@ -36,3 +36,11 @@ Seeded users:
 ```email:alex@ruby.com password:password```
 
 ```email:anna@crypto.com password:password```
+
+## Features not yet implemented
+
+```Registration```
+
+```Search```
+
+```Fronted UI/UX improvements```
